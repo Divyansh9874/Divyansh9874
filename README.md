@@ -3,7 +3,6 @@
 - 🌱 I have knowledge of Java(JDBC,Servlets,JSP,Spring,Spring Boot),HTML,CSS,MySQL.
 - 🌱 Currently I'm learning JavaScript and ReactJS.
 - 💞️ I’m looking to collaborate on Open Source Projects or Full Stack Projects.
-- 📫 Mail me at divyansh00010@gmail.com.
 
 <!---
 Divyansh9874/Divyansh9874 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
